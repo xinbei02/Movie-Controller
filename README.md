@@ -7,5 +7,5 @@ Python程式設計 小組Final project
 ## 程式語言
 `Python`
 ### Module
-`OpenCv`：辨識手勢  
+`OpenCv` `MediaPipe`：辨識手勢  
 `Selenium`：控制網頁  
